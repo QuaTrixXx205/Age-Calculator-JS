@@ -1,1 +1,1 @@
-# Age-calculator-JS
+# Age Calculator with HTML, CSS, JavaScript
